@@ -63,7 +63,7 @@ public class HappyFriday {
         System.out.println();
         HappyFriday.barbecue_and_cuban_son();
     }
-
+}
 
 
 
